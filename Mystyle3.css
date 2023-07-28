@@ -1,0 +1,159 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#a
+{
+    background-color: black;
+     height: 80px;
+     width: 100%;
+     padding: auto;
+     
+}
+#b
+{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    display:flex;
+    padding-left: 15%;
+}
+
+#b ul
+{
+    display: flex;
+    list-style-type: none;
+    margin-top: 20px;
+}
+#b ul a
+{
+    font-size: medium;
+    font-weight:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 80px;
+     
+}
+
+#b ul a:hover
+{
+     color: aqua;
+}
+
+#d
+{
+    background-color: azure;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    padding: auto;
+}
+img
+{
+    height: 350px;
+    width: 267px;
+    margin-left: 10px; 
+    margin-bottom: 10px; 
+    margin-top: 55px;  
+    border-radius:10px ;
+}
+p
+{
+    font-size: medium;
+    font-weight:400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color:dimgray;
+    padding: 50px;
+    text-align: justify;
+    line-height: 1cm;
+}
+#g
+{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    padding: auto;
+}
+#h
+{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    display:flex;
+    padding-left: 15%;
+}
+#h ul
+{
+    display: flex;
+    list-style-type: none;
+    margin-top: 20px;
+}
+#h ul a
+{
+    height: 80px;
+    width: 90px;
+    font-size: 2em;
+    color: white;
+    opacity: 0.9;
+    padding-left: 200px;
+    
+}
+#h ul a:hover
+{
+    color: aqua;
+}
+.sec
+{
+    background-color: azure;
+    height: 450px;
+    width: 100%;
+    padding-top: 60px;
+    
+}
+.m
+{
+    display: flex;
+    flex-direction: row;
+    line-height: 2cm;
+    margin-left: 300px;
+    border-style: solid;
+    border-color: white;
+    margin-right: 300px;
+    border-radius: 10px;
+    background-color: rgb(170, 99, 194);
+    
+}
+.m a
+{
+    text-decoration: none;
+    color: black;
+}
+.m a:hover
+{
+    color: aqua;
+}
+.m h1
+{
+    margin-right: 20px;
+}
+.m div
+{
+    font-size: medium;
+    font-weight:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 80px;
+}
+
+
+    
+
+
