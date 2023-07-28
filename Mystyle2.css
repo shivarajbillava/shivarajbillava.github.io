@@ -1,0 +1,154 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#a
+{
+    background-color: black;
+     height: 80px;
+     width: 100%;
+     padding: auto;
+     
+}
+#b
+{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    display:flex;
+    padding-left: 15%;
+}
+
+#b ul
+{
+    display: flex;
+    list-style-type: none;
+    margin-top: 20px;
+}
+#b ul a
+{
+    font-size: medium;
+    font-weight:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 80px;
+     
+}
+
+#b ul a:hover
+{
+     color: aqua;
+}
+
+
+#g
+{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    padding: auto;
+}
+#h
+{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    display:flex;
+    padding-left: 15%;
+}
+#h ul
+{
+    display: flex;
+    list-style-type: none;
+    margin-top: 20px;
+}
+#h ul a
+{
+    height: 80px;
+    width: 90px;
+    font-size: 2em;
+    color: white;
+    opacity: 0.9;
+    padding-left: 200px;
+    
+}
+#h ul a:hover
+{
+    color: aqua;
+}
+#sec
+{
+   background-color: azure;
+    height: 100%;
+    width: 100%;
+    border-width: 2cm;
+    
+}
+.w
+{
+    margin: 2%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: coral;
+    
+}
+.w p
+{
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 0.7cm;
+    margin-top: 10px;
+
+}
+.w h3
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+h1
+{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.w li
+{
+    margin-left: 50px;
+    line-height: 1cm;
+}
+.w button
+{
+    background-color:rgb(51, 8, 84) ;
+    height: 30px;
+    width: 80px;
+    padding: auto;
+    border-radius: 5px;
+    margin-left: 550px;
+}
+.w button a
+{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    
+}
+.w h2
+{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.w button a:hover
+{
+    color: coral;
+}
+
+
+    
+
+
